@@ -48,7 +48,7 @@ def ice_break_with(name: str) -> Tuple[Summary,str]:
 if __name__ == "__main__":
     load_dotenv()
     print("Ice Breaker Enter")
-    ice_break_with(name="Shane Barker")
+    ice_break_with(name="Shane Barker linkedin")
 
  
 
